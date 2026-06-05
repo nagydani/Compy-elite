@@ -1,7 +1,6 @@
 require("world")
 SCALE = 4
 gfx = love.graphics
-gfx.reset()
 gfx.clear(Color[0])
 gfx.setColor(Color[15])
 gfx.setFont(gfx.newFont(10))
